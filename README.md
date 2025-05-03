@@ -12,8 +12,8 @@ Author:
 ## Param
 - system_message [str]
 - user_message [str]
-- user_info Optional[str]
-- user_id optional[str]
+- user_info Optional [str]
+- user_id optional [str]
 ---
 
 ## 🚀 Installation
