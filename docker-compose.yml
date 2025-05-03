@@ -1,7 +1,7 @@
 services:
-  api_yumna2:
-    image: yumnaapi
-    container_name: api_yumna2
+  api_groq:
+    image: YOUR IMAGE
+    container_name: YOUR CONTAINER NAME
     ports:
       - "8098:8000"
     env_file:
