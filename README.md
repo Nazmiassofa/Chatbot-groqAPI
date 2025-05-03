@@ -4,8 +4,16 @@ Author:
 **Nazmiassofa**
 
 ## 📄 Description
-**Chat Groq Api** 
+**Chat Bot Groq Api** 
 
+## Endpoint 
+- /chat
+
+## Param
+- system_message [str]
+- user_message [str]
+- user_info Optional[str]
+- user_id optional[str]
 ---
 
 ## 🚀 Installation
